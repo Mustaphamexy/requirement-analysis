@@ -53,8 +53,8 @@ Requirement Analysis is one of the most important steps in the Software Developm
 **Definition**: Describe how the system should perform.
 **Examples**: Performance, security, scalability, usability, reliability.
 ### Key Non-functional Requirements:
-**Performance**: The system should load pages within 2 seconds and handle up to 1000 concurrent users.
-**Security**: Ensure data encryption, secure login, and protect against common vulnerabilities.
+- **Performance**: The system should load pages within 2 seconds and handle up to 1000 concurrent users.
+- **Security**: Ensure data encryption, secure login, and protect against common vulnerabilities.
 **Scalability**: The system should be able to scale horizontally to handle increased traffic.
 **Usability**: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 **Reliability**: The system should have an uptime of 99.9% and recover quickly from any failures.
