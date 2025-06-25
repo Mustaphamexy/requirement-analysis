@@ -34,7 +34,7 @@ Requirement Analysis is one of the most important steps in the Software Developm
  - **Requirement Prioritization**: Prioritizing requirements based on their importance and impact on the project.
  - **Feasibility Analysis**: Assessing the feasibility of requirements in terms of technical, financial, and time constraints.
  - **Modeling**: Creating models (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.
-## Requirement Validation**
+## Requirement Validation
 - **Review and Approval**: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
 - **Acceptance Criteria**: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 - **Traceability**: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
@@ -42,6 +42,7 @@ Requirement Analysis is one of the most important steps in the Software Developm
   ## Types of Requirements
   ### Functional Requirements
 **Definition**: Describe what the system should do.
+
 **Examples**: User authentication, property search, booking system, user registration.
 #### Key Functional Requirements:
 - **Search Properties**: Users should be able to search for properties based on various criteria such as location, price, and availability.
@@ -51,6 +52,7 @@ Requirement Analysis is one of the most important steps in the Software Developm
 - **User Authentication**: Secure login and registration process for users.
 ## Non-functional Requirements
 **Definition**: Describe how the system should perform.
+
 **Examples**: Performance, security, scalability, usability, reliability.
 ### Key Non-functional Requirements:
 - **Performance**: The system should load pages within 2 seconds and handle up to 1000 concurrent users.
@@ -58,4 +60,12 @@ Requirement Analysis is one of the most important steps in the Software Developm
 - **Scalability**: The system should be able to scale horizontally to handle increased traffic.
 - **Usability**: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 - **Reliability**: The system should have an uptime of 99.9% and recover quickly from any failures.
+
+## Use Case Diagrams.
+Use Case Diagrams are visual tools used in software development to show how different users (called actors) interact with a system to achieve specific goals (use cases). These diagrams provide a high-level overview of what the system does from a user's point of view.
+
+### Benefits of Use Case Diagrams:
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and development team.
 
