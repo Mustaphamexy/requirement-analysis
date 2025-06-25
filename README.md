@@ -17,11 +17,11 @@ Requirement Analysis is one of the most important steps in the Software Developm
 
 ## Key Activities in Requirement Analysis
  **Requirement Gathering**
-	*Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
-	*Surveys/Questionnaires: Distributing surveys to collect requirements from a larger audience.
-  *Workshops: Organizing workshops with stakeholders to discuss and gather requirements.
-  *Observation: Observing end-users in their working environment to understand their needs.
-  *Document Analysis: Reviewing existing documentation and systems to understand current functionalities and requirements.
+	-Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
+	-Surveys/Questionnaires: Distributing surveys to collect requirements from a larger audience.
+  -Workshops: Organizing workshops with stakeholders to discuss and gather requirements.
+  -Observation: Observing end-users in their working environment to understand their needs.
+  -Document Analysis: Reviewing existing documentation and systems to understand current functionalities and requirements.
 **Requirement Elicitation**
   *Brainstorming: Conducting brainstorming sessions to generate ideas and gather requirements.
   *Focus Groups: Holding focus group discussions with selected stakeholders to gather detailed requirements.
