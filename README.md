@@ -69,3 +69,9 @@ Use Case Diagrams are visual tools used in software development to show how diff
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and development team.
 
+https://github.com/Mustaphamexy/requirement-analysis/blob/f7a000828b827cbf531ae8255631e033f1e619f7/alx-booking-uc
+
+## Acceptance Criteria.
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+### Example of acceptance criteria 
+Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.” 
